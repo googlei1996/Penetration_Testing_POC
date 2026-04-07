@@ -803,6 +803,7 @@
 - [深科特 LEAN MES系统 SetDataSource.aspx SQL注入漏洞](https://mrxn.net/jswz/lean-mes-SetDataSource-sqli.html)
 - [CLIProxyAPI /v1internal:method 未授权访问漏洞](https://mrxn.net/news/CLIProxyAPI-v1internal-method-unauthorized-access.html)
 - [孚盟云CRM AjaxTrackInfo.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-AjaxTrackInfo-sqli.html)
+- [孚盟云CRM DingHandler.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-DingHandler-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
