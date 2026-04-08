@@ -804,6 +804,7 @@
 - [CLIProxyAPI /v1internal:method 未授权访问漏洞](https://mrxn.net/news/CLIProxyAPI-v1internal-method-unauthorized-access.html)
 - [孚盟云CRM AjaxTrackInfo.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-AjaxTrackInfo-sqli.html)
 - [孚盟云CRM DingHandler.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-DingHandler-sqli.html)
+- [孚盟云CRM PriceList.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-PriceList-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
